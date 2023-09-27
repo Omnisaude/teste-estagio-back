@@ -1,10 +1,10 @@
 # Teste-estagio-back: Criando um Catálogo de Filmes com a API OMDB
 
 # Objetivo:
-Criar um programa Python que permite ao usuário pesquisar e catalogar filmes usando a API OMDB.
+Criar um script Python que permita ao usuário pesquisar e catalogar filmes usando a API OMDB.<br>
 
 # Requisitos:
-### 1. Crie um programa Python que permita ao usuário realizar as seguintes operações:
+### 1. Crie um Script Python que permita ao usuário realizar as seguintes operações:
   
   - Pesquisar um filme por título.
   - Exibir informações detalhadas sobre um filme específico.
@@ -13,16 +13,15 @@ Criar um programa Python que permite ao usuário pesquisar e catalogar filmes us
 
 ### 2. Use a API OMDB (http://www.omdbapi.com/) para obter informações sobre os filmes.
 
-### 3. Implemente um menu (Da forma que preferir) para que o usuário possa escolher entre as opções acima.
+### 3. Implemente um menu para que o usuário possa escolher entre as opções acima. O menu de seleção das operações pode ser implementado de forma simples, utilizando apenas o terminal e números para que o usuário escolha cada operação.
 
-### 4. Ao pesquisar um filme, exiba pelo menos os seguintes detalhes:
+### 4. Ao pesquisar um filme, tente exibir pelo menos os seguintes detalhes:
 
   - Título do filme.
   - Ano de lançamento.
   - Classificação.
   - Sinopse.
   - Diretor.
-  - Atores principais.
 
 ### 5. Ao adicionar um filme à lista de favoritos, armazene as informações relevantes em um arquivo de texto ou JSON para que os favoritos possam ser acessados posteriormente.
 
