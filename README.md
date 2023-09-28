@@ -1,7 +1,7 @@
 # Teste-estagio-back: Criando um Catálogo de Filmes com a API OMDB
 
 # Objetivo:
-Criar um script Python que permita ao usuário pesquisar e catalogar filmes usando a API OMDB
+Criar um script Python que permita ao usuário pesquisar e catalogar filmes usando a API OMDB.
 
 # Requisitos:
 ### 1. Crie um Script Python que permita ao usuário realizar as seguintes operações:
@@ -38,8 +38,8 @@ Criar um script Python que permita ao usuário pesquisar e catalogar filmes usan
    - Crie uma pequena documentação simples (arquivo README.md no repositório do github) descrevendo seu código.
 
 ### 7. Envio do Projeto
-   - Envie o link do repositório no GitHub para o e-mail: weslley@omnisaude.co (lembrando que esse repositório deve ser público e deve ter um arquivo README.md onde estará a sua documentação citada no item 6)
-   - O e-mail deve ter o assunto: "Teste para Estágio Back-end - [seu nome]"
+   - Envie o link do repositório no GitHub para o e-mail: weslley@omnisaude.co (lembrando que esse repositório deve ser público e deve ter um arquivo README.md onde estará a sua documentação citada no item 6).
+   - O e-mail deve ter o assunto: "Teste para Estágio Back-end - [seu nome]".
 
 ### 8. Prazo
    - Você terá 3 dias a partir da data de recebimento deste e-mail para completar o projeto e enviar o link do repositório.
@@ -48,8 +48,7 @@ Criar um script Python que permita ao usuário pesquisar e catalogar filmes usan
 - Use a biblioteca requests para fazer requisições HTTP à API OMDB.
 - Considere criar uma classe para representar um filme, o que pode tornar mais fácil trabalhar com os dados.
 - Pode ser útil usar um loop para permitir que o usuário execute várias operações em sequência até que escolha sair do programa.
-- No site da API tem uma documentação sobre como utiliza-la. <br>
-- Use a biblioteca requests para usar a API.
+- No site da API tem uma documentação sobre como utilizá-la. <br>
 
 
 # Avaliação:
