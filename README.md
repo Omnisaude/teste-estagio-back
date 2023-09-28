@@ -38,7 +38,7 @@ Criar um script Python que permita ao usuário pesquisar e catalogar filmes usan
    - Crie uma pequena documentação simples (arquivo README.md no repositório do github) descrevendo seu código.
 
 ### 7. Envio do Projeto
-   - Envie o link do repositório no GitHub para o e-mail: weslley@omnisaude.co (lembrando que esse repositório deve ser público e deve ter um arquivo README.md onde estará a sua documentação citada no item 4)
+   - Envie o link do repositório no GitHub para o e-mail: weslley@omnisaude.co (lembrando que esse repositório deve ser público e deve ter um arquivo README.md onde estará a sua documentação citada no item 6)
    - O e-mail deve ter o assunto: "Teste para Estágio Back-end - [seu nome]"
 
 ### 8. Prazo
